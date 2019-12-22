@@ -1,3 +1,4 @@
+\
 <template>
   <div class="container">
     <h1 class="title">
@@ -9,7 +10,7 @@
     <div class="columns">
       <div class="column is-half is-offset-one-quarter">
         <figure class="image">
-          <img :src="imgSrc">
+          <img :src="imgSrc" alt="">
         </figure>
       </div>
     </div>

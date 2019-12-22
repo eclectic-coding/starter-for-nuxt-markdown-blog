@@ -26,6 +26,9 @@ module.exports = {
     }],
     "vue/html-indent": ["error", 2, {
       "alignAttributesVertically": false,
-    }]
+    }],
+    "template-curly-spacing" : "off",
+    indent : "off"
+
   }
 }
