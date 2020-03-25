@@ -1,5 +1,5 @@
 {
-  "extends": ["config:base"],
+  "extends": ["config:base", ":preserveSemverRanges"],
   "includePaths": ["package.json"],
   "semanticCommits": true,
   "rangeStrategy": "bump",
