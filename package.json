@@ -15,7 +15,7 @@
     "@nuxtjs/axios": "5.10.3",
     "@nuxtjs/bulma": "1.2.7",
     "dotenv": "8.2.0",
-    "frontmatter-markdown-loader": "3.4.1",
+    "frontmatter-markdown-loader": "3.4.2",
     "mailgun-js": "0.22.0",
     "nuxt": "2.12.2"
   },
