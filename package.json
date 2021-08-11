@@ -17,7 +17,7 @@
     "dotenv": "8.6.0",
     "frontmatter-markdown-loader": "3.6.3",
     "mailgun-js": "0.22.0",
-    "nuxt": "2.15.7"
+    "nuxt": "2.15.8"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "6.0.1",
